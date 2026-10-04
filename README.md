@@ -47,12 +47,7 @@ It's entirely optional and doesn't unlock anything.
 
 ## Reporting a problem
 
-Open an [issue](../../issues). For a security problem, use **Report a vulnerability** on the
-[Security](../../security) tab instead, so it stays private until it's fixed.
-
-DiscForge never removes or gets around copy protection, and requests for that are closed.
-
-Copyright (c) 2026 MaTRIX TeAm. All rights reserved.
-
-
-
+In DiscForge, use **Report a problem** (in Settings, About, or right-click any tile). It fills in an
+[issue](../../issues) here for you to check and send; DiscForge never sends anything itself. You can
+also open an issue directly. For a security problem, use **Report a vulnerability** on the
+[Security](../../securi
