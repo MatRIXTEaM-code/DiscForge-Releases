@@ -50,4 +50,14 @@ It's entirely optional and doesn't unlock anything.
 In DiscForge, use **Report a problem** (in Settings, About, or right-click any tile). It fills in an
 [issue](../../issues) here for you to check and send; DiscForge never sends anything itself. You can
 also open an issue directly. For a security problem, use **Report a vulnerability** on the
-[Security](../../securi
+[Security](../../security) tab instead, so it stays private until it's fixed.
+
+DiscForge never removes or gets around copy protection, and requests for that are closed.
+
+## Privacy
+
+DiscForge collects no personal information: no adverts, no tracking, no account. The only thing it
+does online by itself is a once-a-day check for a new version (which you can turn off). Problem
+reports are only sent if you send them. See [PRIVACY.md](PRIVACY.md) for the details.
+
+Copyright (c) 2026 MaTRIX TeAm. All rights reserved.
