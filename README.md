@@ -2,7 +2,7 @@
 
 DiscForge is a Windows disc-imaging and preservation toolkit: read, burn, copy, check and repair CDs,
 DVDs and Blu-ray discs, plus tools for old archives, game discs and saves. It comes with `dforge`, a
-command-line version for Windows and Linux.
+command-line version for Windows, Linux and macOS.
 
 This repository holds the downloads only. DiscForge is free to use but not open source; the source
 code is private.
@@ -17,8 +17,14 @@ Get the newest version from **[Releases](../../releases/latest)**:
 
 - `DiscForge-Setup-<version>.exe` — the installer (most people want this)
 - `DiscForge-v<version>-win-x64.zip` — the same program as a folder, no installation
-- `dforge-v<version>-win-x64.zip` — the command-line tool for Windows
-- `dforge-v<version>-linux-x64.tar.gz` — the command-line tool for Linux
+- `DiscForge-v<version>-win-arm64.zip` — the same, for Windows on ARM
+
+The command-line tool, `dforge`:
+
+- `dforge-v<version>-win-x64.zip` — Windows
+- `dforge-v<version>-linux-x64.tar.gz` and `dforge-v<version>-linux-arm64.tar.gz` — Linux
+- `dforge-v<version>-osx-x64.tar.gz` and `dforge-v<version>-osx-arm64.tar.gz` — macOS (Intel and
+  Apple silicon)
 
 ### "Windows protected your PC"?
 
@@ -35,7 +41,7 @@ because it talks to the disc drive directly.
 
 DiscForge looks for a new version once a day (you can turn this off in Settings) and can update
 itself: it downloads the installer from this page, checks it against `SHA256SUMS.txt`, and installs
-it. Each release lists the SHA-256 of every download in `SHA256SUMS.txt`.
+it.
 
 ## Support DiscForge
 
